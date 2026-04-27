@@ -1,6 +1,6 @@
 # Classification ML Models to Predict Client Subscriptions
 
-This repository contains a set of Jupyter Notebooks that explore and compare **machine learning classification approaches** for predicting whether a client will **subscribe** to a product/campaign. The work is organized into notebooks covering **dataset preparation**, **Random Forest modeling (baseline + enhanced)**, and **Neural Network modeling (original + updated)**.
+**Machine learning classification approaches** for predicting whether a client will **subscribe** to a product/campaign. The work is organized into notebooks covering **dataset preparation**, **Random Forest modeling (baseline + enhanced)**, and **Neural Network modeling (original + updated)**.
 
 Repository: https://github.com/d-senyaka/Classification-ML-Models-to-Predict-Client-Subscriptions  
 Default branch: `master`
